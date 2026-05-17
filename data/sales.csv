@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,Total Amount
+1,2020-12-28,CUST006,Phone,Elec,-5,-1000,5000
+2,05/23/2029,CUST010,Mouse,Elec,-10,-300,3000
+3,December 05 2022,CUST006,SmartWatch,Elec,-10,-150,-1500
+4,July 11 2023,CUST004,Printer,Electronics,-2,-800,-1600
+5,September 17 2022,CUST002,Printer,Electronics,-1,-800,-800
+6,04-10-2020,CUST005,TV,Elec,-4,-200,800
+7,July 21 2020,CUST003,Router,Electronics,-1,-1500,-1500
+8,,CUST005,Speaker,Electronics,0,-1000,0
+9,November 26 2026,004,Printer,Electronics,-3,-200,600
+10,April 12 2029,004,Router,Electronics,-2,-20,-40
+11,December 19 2021,cust002,Laptop,Electronics,-3,-1000,-3000
+12,22-12-2029,CUST010,Headphones,,-10,-50,-500
+13,2022-09-03,CUST003,Printer,,-4,-10,40
+14,08/07/2029,CUST006,SmartWatch,,-3,-200,600
+15,2027-12-15,CUST006,TV,electronics,-2,-1000,-2000
+16,23-04-2026,cust002,Mic,Electronics,-1,-50,-50
+17,25/09/2025,cust002,Mic,electronics,-10,-1000,-10000
+18,,,Monitor,Electronics,-10,-500,5000
+19,02/14/2026,CUST005,Webcam,Elec,-5,-1000,-5000
+20,11/02/2025,CUST002,TV,Electronics,-1,-150,150
+21,26-09-2029,CUST003,SmartWatch,Elec,0,-800,0
+22,28/05/2021,CUST007,Printer,electronics,-2,-200,400
+23,July 22 2028,CUST006,TV,Electronics,-1,-300,300
+24,03/18/2024,CUST007,Laptop,Elec,-10,-50,-500
+25,28-12-2029,CUST005,Monitor,,-3,-100,-300
+26,02-08-2029,CUST001,SmartWatch,Electronics,-5,-100,500
+27,2024-03-17,cust002,Webcam,,-4,-2000,8000
+28,,CUST003,Keyboard,electronics,-2,-100,-200
+29,April 19 2027,CUST008,Webcam,Elec,-1,-500,-500
+30,2024-03-19,CUST002,Laptop,Electronics,-1,-1000,-1000
+31,July 23 2027,CUST008,Mic,electronics,-3,-1500,-4500
+32,06/24/2023,,Tablet,electronics,-3,-500,1500
+33,25-02-2023,CUST005,SmartWatch,Electronics,-1,-50,-50
+34,05/25/2025,,Speaker,,-2,-50,-100
+35,October 24 2029,CUST007,Phone,,0,-10,0
+36,04/20/2021,CUST004,Printer,Electronics,-5,-50,250
+37,,CUST010,TV,Elec,0,-1500,0
+38,,CUST005,,Electronics,-2,-20,40
+39,,cust002,Drone,electronics,-1,-20,-20
+40,,CUST001,Phone,,-1,-300,-300
+41,07/27/2020,CUST005,Monitor,Elec,-5,-1500,7500
+42,12/28/2020,004,Mouse,Electronics,-2,-1000,-2000
+43,05-11-2029,004,Webcam,Elec,0,-1500,0
+44,2021-05-09,,Headphones,Elec,-4,-150,-600
+45,26-12-2022,CUST001,SmartWatch,electronics,-1,-2000,-2000
+46,January 03 2022,CUST007,Printer,,-2,-150,300
+47,2025-11-02,,Mouse,Electronics,-3,-100,-300
+48,2021-05-13,cust002,TV,Elec,-3,-150,450
+49,2027-11-10,CUST009,Webcam,Electronics,0,-1000,0
+50,,,Drone,,-1,-800,800
+51,January 17 2027,CUST008,Laptop,,-1,-50,50
+52,11/02/2029,CUST002,Mouse,Elec,-2,-800,-1600
+53,,CUST003,Speaker,Elec,-2,-200,400
+54,April 16 2023,CUST001,Speaker,Elec,-2,-1000,-2000
+55,July 04 2021,CUST001,,Elec,-1,-20,-20
+56,May 10 2022,CUST009,,,-1,-500,-500
+57,February 02 2026,CUST003,,Elec,0,-1500,0
+58,25-10-2025,CUST007,Headphones,Electronics,-4,-10,40
+59,2021-05-21,CUST004,Phone,Electronics,-4,-300,-1200
+60,January 04 2024,004,Laptop,electronics,-3,-10,30
+61,February 05 2029,CUST006,Headphones,,-3,-300,900
+62,24-09-2020,CUST009,Router,Elec,-2,-300,-600
+63,04/11/2022,cust002,Laptop,Electronics,-4,-100,400
+64,September 02 2028,,Laptop,Electronics,-4,-2000,8000
+65,July 17 2029,CUST002,Keyboard,electronics,-5,-20,-100
+66,February 23 2023,CUST009,Webcam,Elec,-2,-20,40
+67,,CUST006,Headphones,Electronics,-3,-150,450
+68,2026-08-08,cust002,SmartWatch,Elec,-2,-100,-200
+69,December 20 2023,CUST007,Printer,Elec,-4,-2000,8000
+70,April 01 2022,CUST009,Tablet,Elec,0,-2000,0
+71,04-01-2020,CUST009,Headphones,electronics,-3,-500,1500
+72,28/10/2024,,Keyboard,,-2,-1000,-2000
+73,04-05-2028,CUST010,Mouse,Electronics,-3,-50,-150
+74,03/21/2022,,Keyboard,Electronics,-1,-2000,2000
+75,2029-06-01,CUST004,Phone,Electronics,-1,-200,-200
+76,July 26 2023,004,Keyboard,Elec,-1,-300,-300
+77,11/02/2027,C-003,Laptop,Elec,-5,-10,-50
+78,,cust002,Speaker,Elec,-5,-800,4000
+79,,C-003,Headphones,Elec,-3,-10,-30
+80,,CUST004,Drone,Electronics,-3,-800,2400
+81,18-07-2026,CUST003,Headphones,electronics,-3,-500,1500
+82,23/06/2021,,Mic,Elec,-3,-150,-450
+83,2023-05-21,CUST004,Mouse,Elec,-1,-1500,-1500
+84,05-09-2021,CUST007,Drone,electronics,-10,-10,100
+85,February 08 2027,CUST005,Tablet,Electronics,-10,-2000,-20000
+86,,C-003,Drone,,-4,-150,600
+87,24/10/2026,CUST002,Mic,Electronics,-3,-300,-900
+88,05/17/2026,CUST003,Laptop,Electronics,-2,-200,400
+89,05/31/2029,CUST001,Router,Elec,-3,-1500,4500
+90,,,Router,Elec,-2,-100,200
+91,19-07-2025,CUST009,Router,electronics,-1,-2000,-2000
+92,09/01/2024,CUST001,Tablet,Electronics,-4,-500,2000
+93,,CUST006,TV,,0,-2000,0
+94,07/06/2028,CUST004,Mic,Electronics,-3,-10,-30
+95,08/05/2023,004,Router,Electronics,-3,-1000,3000
+96,08/27/2028,CUST005,Keyboard,,-5,-150,750
+97,05/17/2029,C-003,Tablet,Electronics,-1,-1000,-1000
+98,,CUST003,Keyboard,electronics,-5,-200,1000
+99,07/09/2020,CUST005,TV,,-4,-300,-1200
+100,June 09 2020,CUST002,Phone,Elec,-1,-800,-800
+101,05-04-2029,C-003,Phone,Electronics,-5,-50,-250
+102,2020-03-05,C-003,Mic,Elec,-2,-300,-600
+103,02/04/2026,CUST003,Router,Elec,-5,-10,-50
+104,09-06-2026,,Webcam,Electronics,-2,-20,-40
+105,20/07/2029,CUST009,Speaker,Elec,-1,-10,-10
+106,05/11/2029,CUST007,Phone,Elec,-5,-1000,-5000
+107,August 17 2022,CUST008,Monitor,Electronics,-1,-800,800
+108,2020-10-26,CUST004,Mic,,-4,-800,-3200
+109,08/01/2021,CUST004,Printer,Electronics,-1,-800,-800
+110,15-02-2024,CUST008,Mouse,,-4,-1000,-4000
+111,,004,,Electronics,-4,-100,-400
+112,01/21/2028,CUST004,Webcam,,-2,-300,600
+113,,CUST006,Headphones,Electronics,-3,-2000,-6000
+114,08-10-2029,,Phone,Elec,-2,-300,600
+115,18-04-2028,CUST007,Router,Electronics,-3,-50,150
+116,,CUST003,Monitor,Electronics,-10,-50,-500
+117,11/24/2021,cust002,Keyboard,electronics,-2,-20,-40
+118,03-08-2023,CUST005,Mouse,Elec,-10,-1500,-15000
+119,January 26 2026,CUST003,Headphones,Electronics,-5,-50,-250
+120,,C-003,Monitor,Electronics,0,-20,0
+121,08/31/2021,004,Keyboard,Elec,-1,-2000,2000
+122,2026-05-05,CUST003,Phone,Elec,-5,-100,500
+123,2025-01-20,CUST009,Printer,Electronics,0,-10,0
+124,2023-02-20,C-003,Drone,Electronics,-1,-50,50
+125,02/12/2026,CUST010,Headphones,Electronics,-5,-300,1500
+126,03/15/2028,C-003,,Electronics,-4,-50,-200
+127,24/04/2024,,Speaker,Elec,0,-150,0
+128,2025-06-27,004,Printer,Electronics,-5,-10,50
+129,08/11/2024,CUST001,Headphones,electronics,-4,-100,-400
+130,,CUST004,Tablet,electronics,-1,-1000,-1000
+131,16/03/2025,cust002,Mouse,Electronics,-3,-20,60
+132,September 28 2022,CUST008,Phone,Elec,-4,-300,1200
+133,,CUST002,Speaker,Electronics,-5,-1500,-7500
+134,,CUST008,Phone,Electronics,-2,-1000,-2000
+135,September 15 2020,004,Mouse,Electronics,-4,-20,80
+136,2023-08-30,CUST010,Printer,,-3,-50,150
+137,,004,Drone,,-3,-800,2400
+138,14-07-2023,CUST001,Webcam,electronics,-5,-100,-500
+139,2028-09-10,CUST005,TV,Electronics,0,-150,0
+140,2028-05-01,CUST005,Speaker,Elec,-1,-100,-100
+141,2025-06-23,CUST008,Monitor,Elec,-3,-200,-600
+142,,CUST002,Mic,Electronics,-4,-300,1200
+143,2021-04-01,CUST009,Mouse,,-3,-800,2400
+144,08/21/2024,CUST008,Keyboard,electronics,-4,-150,600
+145,13-02-2024,CUST009,Phone,,-2,-800,-1600
+146,03/01/2023,cust002,Phone,Electronics,-3,-150,450
+147,May 02 2029,,Keyboard,electronics,-3,-20,-60
+148,,CUST001,Mouse,,-10,-800,8000
+149,03/21/2028,CUST002,Laptop,Elec,-4,-800,-3200
+150,23/01/2026,004,Monitor,electronics,-3,-150,-450
+151,,004,Printer,Elec,-2,-800,1600
+152,,cust002,Monitor,Electronics,-2,-100,-200
+153,2025-02-16,,Phone,Elec,-2,-200,400
+154,08/01/2025,CUST002,Phone,Elec,0,-300,0
+155,February 04 2029,CUST006,Mouse,Elec,-2,-2000,-4000
+156,2023-03-28,004,Tablet,Electronics,-5,-800,4000
+157,March 26 2028,,Speaker,Elec,-3,-200,-600
+158,23-03-2028,CUST003,TV,Elec,-10,-50,500
+159,,,Laptop,Electronics,-1,-150,-150
+160,04/01/2020,CUST007,TV,electronics,-5,-50,250
+161,2029-03-24,CUST007,Router,Elec,-3,-1000,3000
+162,03-12-2020,CUST002,Speaker,Elec,-2,-1000,2000
+163,2026-07-26,CUST004,Speaker,Electronics,-2,-1000,-2000
+164,09-07-2023,C-003,Drone,,-3,-1500,4500
+165,,,Keyboard,electronics,-5,-300,-1500
+166,01-05-2027,CUST003,Printer,,-5,-150,750
+167,28-05-2020,CUST002,Webcam,Elec,-10,-10,100
+168,05/27/2029,CUST008,Monitor,Electronics,-1,-2000,2000
+169,27-05-2026,CUST003,Monitor,Elec,-1,-800,-800
+170,,CUST008,Mic,Electronics,-5,-200,1000
+171,01/02/2024,cust002,Headphones,,-2,-2000,4000
+172,April 28 2023,CUST006,Laptop,Electronics,-3,-1000,3000
+173,,CUST008,Mouse,Elec,-1,-300,300
+174,06/27/2028,CUST007,SmartWatch,Elec,-5,-100,-500
+175,09-09-2024,CUST004,Webcam,,-4,-1500,-6000
+176,08/08/2029,C-003,Keyboard,Elec,0,-20,0
+177,April 21 2024,CUST006,Tablet,electronics,-3,-2000,6000
+178,July 13 2024,CUST009,Monitor,Elec,-2,-150,-300
+179,03/09/2023,CUST003,Headphones,Electronics,-5,-150,-750
+180,02/10/2024,CUST007,,,-4,-300,-1200
+181,2025-10-25,CUST005,Speaker,Elec,-3,-200,600
+182,May 06 2021,CUST006,Router,Electronics,-5,-1500,7500
+183,09-04-2023,CUST005,Laptop,Electronics,-10,-300,3000
+184,2021-08-30,CUST008,Tablet,electronics,-2,-50,100
+185,17/02/2021,004,Drone,Elec,-2,-20,-40
+186,,CUST009,TV,Electronics,-1,-300,-300
+187,,CUST009,Phone,,-1,-100,-100
+188,01/05/2025,CUST005,Drone,Electronics,-2,-50,-100
+189,2021-10-24,CUST002,Router,Elec,-2,-20,40
+190,27-08-2021,CUST010,Mouse,Electronics,-3,-50,150
+191,09/04/2025,CUST009,Drone,Electronics,-1,-50,-50
+192,02/09/2023,,Printer,,-3,-2000,-6000
+193,22-04-2025,C-003,Mouse,,-2,-50,100
+194,18-08-2020,,SmartWatch,,-1,-200,-200
+195,26/08/2020,CUST003,Mouse,electronics,-1,-100,-100
+196,22/05/2026,CUST004,Speaker,Elec,0,-800,0
+197,2023-12-21,CUST009,Drone,electronics,-3,-150,450
+198,03/11/2027,CUST007,Keyboard,Elec,-10,-20,-200
+199,04-07-2022,CUST010,Mic,Elec,-1,-50,-50
+200,2022-06-16,CUST004,Webcam,Elec,-1,-2000,-2000
+201,04/10/2027,C-003,Tablet,Elec,-1,-500,-500
+202,01/31/2026,CUST002,Keyboard,electronics,-1,-500,-500
+203,02/04/2022,CUST010,Router,Elec,-3,-150,-450
+204,17/07/2024,CUST008,Router,electronics,-3,-1000,-3000
+205,04/12/2028,CUST002,Drone,Electronics,-5,-50,-250
+206,26-10-2021,CUST009,,,0,-500,0
+207,2029-10-30,CUST006,Phone,,-2,-1000,-2000
+208,,CUST010,,Electronics,-1,-50,50
+209,07-11-2022,CUST002,Headphones,Elec,-5,-50,-250
+210,26/08/2022,CUST004,Router,Electronics,-2,-2000,-4000
+211,08/06/2023,CUST009,Drone,Electronics,-4,-2000,8000
+212,2028-06-30,CUST002,SmartWatch,,-1,-500,500
+213,25-12-2029,CUST007,Monitor,Elec,0,-200,0
+214,16/08/2022,cust002,Laptop,Elec,-2,-50,100
+215,31-07-2028,CUST007,,electronics,-3,-50,150
+216,May 25 2020,CUST003,Tablet,,0,-20,0
+217,18-05-2028,CUST003,Drone,electronics,-10,-500,5000
+218,08/08/2027,,Headphones,electronics,-1,-500,500
+219,03/04/2021,CUST001,Webcam,Electronics,-4,-200,800
+220,03-06-2021,CUST007,Mouse,electronics,-1,-100,-100
+221,2029-11-06,CUST005,Tablet,electronics,0,-1000,0
+222,2023-11-19,CUST004,Headphones,electronics,-3,-1000,-3000
+223,09/20/2028,CUST006,TV,electronics,-5,-10,50
+224,January 26 2023,CUST006,TV,Electronics,-3,-1000,3000
+225,10-09-2022,CUST008,Router,Elec,0,-300,0
+226,January 07 2021,C-003,Mic,electronics,-3,-50,-150
+227,,CUST004,Router,Elec,0,-800,0
+228,2022-03-22,CUST005,Mic,Electronics,-4,-800,3200
+229,14-08-2026,C-003,Printer,Electronics,-1,-800,-800
+230,12/23/2020,CUST002,Tablet,,-2,-300,-600
+231,2026-06-06,CUST009,Laptop,Electronics,-3,-1500,-4500
+232,01/06/2026,CUST008,,Electronics,-3,-2000,-6000
+233,,C-003,Headphones,Elec,-10,-200,-2000
+234,11/10/2029,CUST003,Headphones,electronics,0,-200,0
+235,,cust002,Printer,Electronics,-1,-50,-50
+236,21-06-2022,cust002,Speaker,,-1,-200,-200
+237,February 24 2023,004,TV,Elec,0,-1000,0
+238,23/12/2022,004,Webcam,Elec,-2,-100,-200
+239,2021-10-02,CUST001,Laptop,Elec,-2,-1500,-3000
+240,,CUST002,Webcam,Elec,-4,-10,-40
+241,December 26 2021,CUST008,TV,Electronics,0,-800,0
+242,2024-09-12,CUST006,,Electronics,-10,-200,2000
+243,July 16 2026,CUST006,Keyboard,Electronics,-1,-50,-50
+244,May 10 2027,CUST003,Drone,Elec,-2,-20,40
+245,,CUST010,,electronics,-2,-20,40
+246,2023-10-24,CUST007,,,-2,-300,600
+247,September 04 2023,CUST008,Webcam,electronics,-3,-800,-2400
+248,2027-10-10,CUST005,Mic,Elec,-3,-20,-60
+249,,CUST006,,,-5,-1500,7500
+250,,CUST001,Router,Elec,-2,-50,100
+251,02/05/2027,CUST004,Mic,Electronics,-10,-500,-5000
+252,,cust002,Webcam,Electronics,-10,-500,5000
+253,,CUST009,,Elec,-2,-50,-100
+254,2021-04-21,CUST010,SmartWatch,,-10,-1500,15000
+255,2029-06-15,CUST003,Drone,,-1,-20,20
+256,2024-02-04,cust002,Headphones,Elec,0,-1500,0
+257,2024-01-20,CUST003,Webcam,,-2,-150,300
+258,16-07-2027,CUST002,Headphones,electronics,-1,-1000,-1000
+259,14/05/2027,CUST003,Monitor,Electronics,-5,-100,500
+260,01/10/2027,CUST003,TV,electronics,-4,-2000,-8000
+261,14/01/2021,CUST009,SmartWatch,Electronics,-3,-800,2400
+262,03/10/2021,CUST001,Keyboard,,-10,-20,200
+263,12/24/2029,CUST002,,Elec,-1,-50,50
+264,07/31/2020,CUST001,Laptop,Electronics,-4,-500,-2000
+265,09/14/2023,CUST006,Mic,Elec,-5,-200,1000
+266,20-05-2026,CUST002,Laptop,,-2,-100,-200
+267,2022-08-28,004,Headphones,electronics,-3,-300,900
+268,April 15 2024,CUST009,Laptop,,0,-20,0
+269,03/12/2023,CUST004,Webcam,Elec,-3,-200,-600
+270,2021-06-17,cust002,Mic,,-1,-500,-500
+271,01-02-2028,CUST009,Router,Elec,-2,-1000,-2000
+272,06/01/2026,CUST001,Tablet,Electronics,-1,-800,-800
+273,July 21 2021,C-003,Webcam,,-10,-500,-5000
+274,07/06/2023,CUST006,Mouse,Elec,-4,-200,800
+275,2029-05-23,CUST002,Mic,Elec,-1,-800,800
+276,14-05-2026,CUST006,Tablet,Elec,-5,-300,-1500
+277,2020-05-20,,Tablet,Elec,-3,-2000,6000
+278,23-11-2029,CUST004,Mic,electronics,-3,-1000,3000
+279,January 17 2028,C-003,Mic,Elec,-2,-1000,-2000
+280,,CUST004,Router,Elec,-5,-500,-2500
+281,,,,electronics,-2,-150,-300
+282,10/04/2027,CUST010,Webcam,Elec,-4,-50,200
+283,2025-04-10,CUST010,,electronics,-5,-1000,5000
+284,,CUST009,Drone,Electronics,-10,-200,-2000
+285,16-02-2024,CUST006,Mic,Elec,-3,-150,-450
+286,05/17/2029,CUST005,Headphones,Electronics,-3,-1000,-3000
+287,,CUST007,Mic,,-10,-10,-100
+288,05/14/2025,CUST001,Printer,Elec,-4,-200,-800
+289,2028-10-24,CUST003,Keyboard,electronics,-2,-300,600
+290,2029-04-06,CUST003,Webcam,,-2,-2000,4000
+291,2027-06-10,CUST002,Webcam,electronics,-1,-800,-800
+292,03/02/2029,CUST004,Drone,,0,-300,0
+293,24-06-2028,CUST003,Mic,Elec,-5,-800,4000
+294,08-05-2022,cust002,Mouse,,-3,-200,600
+295,2021-01-01,CUST008,Tablet,electronics,-1,-2000,2000
+296,09/22/2029,CUST004,Webcam,,-10,-200,2000
+297,,C-003,Mouse,electronics,-3,-150,450
+298,,CUST010,SmartWatch,Elec,-1,-300,300
+299,31/03/2021,CUST002,Keyboard,electronics,-3,-150,-450
+300,2021-08-31,CUST002,TV,electronics,-3,-300,900
+301,,CUST006,Monitor,Elec,-1,-500,-500
+302,,,Printer,,-5,-2000,-10000
+303,2021-10-07,CUST001,Mic,Electronics,0,-300,0
+304,,CUST005,Laptop,Electronics,-1,-300,-300
+305,November 24 2022,,Router,Electronics,-1,-10,-10
+306,,cust002,Tablet,Elec,-1,-2000,-2000
+307,January 15 2022,cust002,Mic,,-3,-50,150
+308,11/14/2024,CUST007,Mic,electronics,-2,-20,40
+309,2025-12-07,CUST009,Router,Elec,-3,-300,900
+310,May 29 2020,CUST010,Monitor,Electronics,0,-50,0
+311,06-06-2021,004,Laptop,Electronics,-4,-500,2000
+312,27-11-2020,CUST009,SmartWatch,Electronics,-4,-100,-400
+313,2025-04-21,CUST003,Printer,Elec,-1,-200,200
+314,2025-10-04,CUST005,Mouse,electronics,-3,-50,-150
+315,January 26 2022,004,Speaker,Electronics,-1,-500,500
+316,2027-05-27,CUST003,,Elec,-3,-800,2400
+317,October 23 2024,CUST007,Webcam,,-1,-1500,1500
+318,20-03-2020,CUST010,Router,Electronics,-2,-2000,4000
+319,2027-08-21,CUST007,Router,Elec,0,-50,0
+320,2022-03-08,CUST003,Keyboard,,-3,-300,-900
+321,2022-04-25,CUST007,Drone,electronics,-1,-150,150
+322,August 25 2029,CUST005,Tablet,Electronics,-10,-10,-100
+323,2023-11-12,CUST004,Webcam,Electronics,-3,-1500,-4500
+324,,CUST007,Mic,Elec,-3,-200,600
+325,,CUST008,Laptop,Elec,-1,-800,800
+326,11-04-2026,CUST007,Webcam,Elec,-3,-1000,-3000
+327,2027-10-26,,Speaker,Electronics,-3,-200,600
+328,,cust002,Webcam,Electronics,-3,-2000,6000
+329,11/11/2024,CUST004,Drone,electronics,-4,-2000,-8000
+330,01-06-2027,CUST004,Printer,,-10,-150,-1500
+331,July 21 2020,CUST004,Speaker,Elec,-1,-150,150
+332,December 11 2020,CUST010,Laptop,Electronics,-1,-100,-100
+333,03/09/2026,CUST009,Router,electronics,0,-2000,0
+334,,CUST001,Keyboard,Electronics,0,-150,0
+335,08-06-2025,CUST001,,Elec,-3,-150,-450
+336,26/03/2027,CUST008,Keyboard,Electronics,-5,-10,50
+337,,C-003,Keyboard,Elec,-2,-10,20
+338,,CUST002,Phone,Elec,-2,-2000,-4000
+339,,CUST001,Router,electronics,-4,-500,2000
+340,30-01-2021,CUST007,,,-2,-800,-1600
+341,27-07-2028,CUST008,Mouse,electronics,-2,-2000,-4000
+342,March 30 2029,CUST003,Mouse,,-4,-50,-200
+343,16-11-2025,CUST008,Mouse,electronics,-3,-100,-300
+344,28-07-2021,CUST008,Keyboard,Electronics,-4,-500,-2000
+345,08-05-2021,CUST002,TV,,-4,-1000,4000
+346,01/12/2021,CUST004,,electronics,-2,-150,300
+347,28/03/2026,004,TV,Electronics,-2,-100,-200
+348,,C-003,TV,Elec,-10,-100,-1000
+349,March 09 2021,004,Drone,,-2,-2000,4000
+350,01-11-2021,CUST008,Phone,Electronics,-1,-1500,-1500
+351,05-08-2020,CUST003,Monitor,Electronics,0,-1000,0
+352,12/17/2021,CUST005,Monitor,,-2,-300,600
+353,17-06-2026,CUST003,SmartWatch,Elec,-4,-1000,-4000
+354,30/03/2025,CUST004,SmartWatch,Elec,-2,-20,40
+355,04/12/2029,CUST006,TV,Electronics,-2,-100,-200
+356,2029-01-21,CUST001,Webcam,Elec,-2,-200,-400
+357,,CUST010,Drone,Elec,-1,-800,800
+358,17/06/2020,,Router,,-4,-200,-800
+359,01-12-2028,C-003,Mic,,-10,-10,100
+360,February 26 2029,CUST009,Printer,Elec,-4,-50,200
+361,05-02-2022,CUST001,SmartWatch,Electronics,-2,-20,40
+362,2028-04-02,C-003,Drone,Elec,0,-500,0
+363,,CUST007,SmartWatch,Electronics,-2,-800,-1600
+364,23/01/2027,CUST004,Tablet,,-1,-20,-20
+365,15-04-2026,CUST008,,Electronics,-1,-1000,1000
+366,2026-11-01,CUST007,Phone,Electronics,-5,-1500,7500
+367,2027-02-21,CUST009,Webcam,Elec,-1,-200,200
+368,04/24/2027,cust002,Printer,electronics,-1,-300,300
+369,August 10 2024,CUST001,Keyboard,,-4,-300,1200
+370,04/08/2026,,,electronics,-1,-150,150
+371,05/04/2021,CUST003,Webcam,,-1,-50,-50
+372,,004,Drone,Electronics,-1,-1500,-1500
+373,16-01-2020,,Monitor,electronics,-5,-150,-750
+374,May 27 2029,CUST001,Tablet,,-3,-20,-60
+375,03/16/2021,cust002,Headphones,Electronics,-10,-20,-200
+376,09/07/2024,CUST004,TV,,0,-1500,0
+377,09/15/2029,CUST004,Headphones,Electronics,-2,-100,200
+378,August 28 2025,004,Speaker,,-1,-100,100
+379,,cust002,,Elec,-5,-10,-50
+380,March 12 2029,C-003,Router,Elec,-10,-150,1500
+381,08/02/2025,CUST004,Phone,Electronics,0,-100,0
+382,,004,Tablet,Elec,-1,-1500,-1500
+383,2020-02-08,CUST002,Printer,,-1,-2000,2000
+384,07/09/2024,CUST008,Phone,electronics,-2,-1500,-3000
+385,,CUST001,Mic,Elec,-3,-200,600
+386,06/25/2025,CUST007,Printer,Electronics,-2,-50,-100
+387,06/02/2020,CUST005,Router,electronics,-5,-200,-1000
+388,11/01/2028,C-003,SmartWatch,Electronics,-5,-10,-50
+389,11/06/2023,CUST006,SmartWatch,Elec,-2,-200,400
+390,June 07 2023,CUST010,SmartWatch,Electronics,-5,-800,-4000
+391,06-06-2024,CUST007,Printer,Electronics,-1,-200,200
+392,March 27 2023,CUST002,TV,Elec,-1,-1500,1500
+393,,CUST004,Laptop,electronics,-3,-300,-900
+394,2028-06-24,C-003,Mouse,electronics,-1,-50,-50
+395,17/06/2029,CUST004,Keyboard,Elec,0,-200,0
+396,17/06/2021,CUST008,Router,Electronics,-2,-150,-300
+397,05/23/2026,CUST004,Keyboard,Elec,-10,-500,5000
+398,22-04-2029,CUST003,Monitor,Elec,-10,-150,1500
+399,26-07-2028,cust002,SmartWatch,electronics,-5,-300,-1500
+400,,CUST009,Printer,,-10,-100,-1000
+401,17/08/2026,CUST008,SmartWatch,Electronics,-5,-1000,-5000
+402,09-04-2023,004,Phone,Elec,-2,-1500,3000
+403,03/13/2028,CUST008,Laptop,Electronics,0,-10,0
+404,December 23 2028,CUST005,Drone,Elec,-10,-50,-500
+405,2023-04-25,CUST009,Printer,Elec,0,-500,0
+406,21/02/2028,cust002,Speaker,Electronics,-3,-200,-600
+407,,004,Mouse,,-10,-20,-200
+408,,cust002,Drone,Elec,-1,-10,10
+409,2020-05-30,CUST002,Tablet,Electronics,-3,-1000,3000
+410,29-09-2027,CUST006,Printer,Electronics,-3,-150,450
+411,15/10/2021,C-003,Webcam,Elec,-1,-1500,1500
+412,,CUST005,TV,Electronics,-3,-20,-60
+413,18-06-2021,,Mouse,Electronics,0,-150,0
+414,29-10-2022,CUST007,TV,Electronics,-2,-500,1000
+415,03-03-2025,cust002,Tablet,electronics,-5,-50,250
+416,2022-03-15,CUST004,Monitor,Elec,-3,-50,-150
+417,21/04/2020,CUST007,Headphones,Electronics,-2,-1000,-2000
+418,December 21 2021,004,Drone,,-1,-20,20
+419,02/05/2020,004,Headphones,,-2,-200,-400
+420,06-05-2025,CUST006,Tablet,electronics,-5,-1500,-7500
+421,07-06-2028,CUST009,TV,Electronics,-1,-150,150
+422,01/08/2027,cust002,Printer,electronics,0,-10,0
+423,10/29/2020,CUST008,Phone,electronics,-2,-200,-400
+424,04/24/2024,CUST007,,Elec,-4,-1000,4000
+425,,CUST005,Mic,,-2,-1000,-2000
+426,08/02/2024,CUST002,Monitor,,-5,-20,100
+427,22-01-2029,C-003,Router,,-3,-1000,-3000
+428,November 30 2021,CUST003,Tablet,electronics,-1,-800,800
+429,07/27/2024,cust002,Keyboard,Electronics,0,-150,0
+430,June 21 2025,cust002,SmartWatch,Electronics,-2,-20,40
+431,October 30 2024,CUST007,TV,Electronics,-4,-50,200
+432,19/05/2022,CUST009,Headphones,Electronics,-1,-50,50
+433,22-10-2021,cust002,Webcam,,-2,-50,100
+434,02-04-2022,CUST009,,electronics,-2,-10,-20
+435,11/26/2024,CUST008,Phone,Elec,0,-20,0
+436,2025-09-15,CUST005,Mouse,Electronics,-1,-1000,-1000
+437,,,Phone,Elec,0,-10,0
+438,24-10-2020,cust002,Monitor,Elec,-3,-800,-2400
+439,09/19/2023,CUST001,Speaker,Electronics,-10,-2000,20000
+440,04/08/2028,cust002,Mouse,Electronics,-1,-2000,-2000
+441,,,Speaker,Electronics,-5,-200,-1000
+442,December 19 2029,CUST006,Phone,Electronics,-4,-2000,-8000
+443,,CUST007,Phone,Electronics,-3,-1000,3000
+444,2029-06-12,cust002,Mouse,Elec,-1,-1500,1500
+445,January 30 2021,CUST002,Phone,Electronics,-5,-2000,-10000
+446,2020-11-23,CUST010,,electronics,-1,-1500,-1500
+447,,CUST009,Speaker,Electronics,-4,-150,600
+448,02/03/2029,004,Drone,Electronics,-1,-1500,-1500
+449,,CUST003,Drone,Elec,0,-150,0
+450,2029-08-31,cust002,Drone,Electronics,-10,-1500,-15000
+451,27-03-2023,CUST001,SmartWatch,Electronics,-2,-20,40
+452,02/13/2028,CUST009,Drone,,-4,-1500,6000
+453,01/01/2021,CUST005,Webcam,electronics,-5,-150,750
+454,June 30 2027,,Router,,-10,-200,2000
+455,01/16/2029,004,TV,Electronics,-4,-200,800
+456,06-10-2026,cust002,Monitor,Elec,-1,-20,20
+457,10/05/2028,CUST005,Phone,Electronics,-1,-200,200
+458,12/11/2024,CUST005,Mouse,,0,-10,0
+459,August 06 2029,,Keyboard,electronics,-1,-200,200
+460,,CUST010,Tablet,Electronics,-10,-150,1500
+461,08/05/2022,C-003,SmartWatch,Electronics,-2,-20,40
+462,2024-12-04,CUST008,Printer,Elec,-4,-200,-800
+463,16/08/2028,CUST003,Mic,Electronics,0,-150,0
+464,,CUST003,Webcam,Electronics,0,-20,0
+465,February 08 2021,CUST002,Laptop,Electronics,-2,-150,-300
+466,14/10/2025,CUST003,Webcam,Elec,-1,-150,-150
+467,October 04 2023,CUST008,Phone,Elec,-1,-500,-500
+468,January 01 2024,CUST005,Laptop,Electronics,0,-10,0
+469,,CUST008,Phone,Electronics,-3,-2000,-6000
+470,,CUST010,Headphones,,-4,-2000,8000
+471,September 29 2026,,Keyboard,Elec,-2,-150,300
+472,07/27/2027,004,Printer,Elec,0,-1500,0
+473,2028-12-02,CUST002,Phone,Electronics,-4,-1500,-6000
+474,27/06/2024,004,Router,Elec,-3,-20,-60
+475,25/02/2028,CUST001,TV,Elec,-2,-2000,4000
+476,04-02-2027,CUST008,TV,electronics,-10,-1000,-10000
+477,,CUST007,SmartWatch,Elec,-10,-20,-200
+478,10/31/2022,004,Keyboard,Electronics,0,-200,0
+479,09/13/2022,004,Router,electronics,-2,-50,-100
+480,07/25/2023,CUST009,Tablet,Elec,-3,-200,-600
+481,,CUST010,Speaker,Electronics,-3,-300,-900
+482,31-10-2029,CUST010,SmartWatch,Elec,-1,-10,-10
+483,05/30/2021,CUST001,SmartWatch,,0,-500,0
+484,22/04/2025,C-003,Headphones,Elec,-1,-100,100
+485,08/06/2025,CUST010,Speaker,Electronics,-1,-500,500
+486,07/17/2021,004,Phone,Elec,-1,-300,300
+487,03/07/2024,CUST003,,Elec,-1,-20,-20
+488,,CUST010,Headphones,Electronics,-2,-200,-400
+489,April 25 2027,CUST007,Phone,,-3,-20,-60
+490,12-01-2022,CUST007,Webcam,Electronics,-2,-300,600
+491,07/18/2023,CUST003,Tablet,Elec,-1,-500,-500
+492,February 04 2023,CUST001,Keyboard,electronics,-10,-150,-1500
+493,2025-04-22,C-003,Speaker,,-5,-10,-50
+494,June 13 2021,CUST009,Keyboard,Elec,-3,-800,-2400
+495,18-01-2026,CUST009,Tablet,,-2,-1000,2000
+496,05/17/2028,cust002,Monitor,,-4,-50,200
+497,12/06/2025,C-003,Printer,Electronics,-3,-50,-150
+498,04/04/2026,CUST007,Drone,Electronics,-5,-1000,5000
+499,,cust002,Phone,,-3,-200,600
+500,,CUST004,Tablet,Electronics,-2,-2000,-4000
