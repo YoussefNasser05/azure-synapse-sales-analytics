@@ -53,12 +53,15 @@ ABS(ISNULL(try_cast(unit_price as FLoat), 0)) as unit_price,
 
 --Total_Amount
 abs(ISNULL(try_cast(unit_price as float), 0)) * abs(cast(quantity as FLOAT)) as Total_Amount
-
-
+     
 from bronze.sales 
 
+     
 
 select * from silver.sales
+
+
+
 
 
 
